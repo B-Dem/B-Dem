@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Memz's github stats]((https://github-readme-stats.vercel.app/api?username=B-Dem&hide=contribs,prs&show_icons=true&theme=dracula&rank_icon=github))
+![Memz's github stats](https://github-readme-stats.vercel.app/api?username=B-Dem&hide=contribs,prs&show_icons=true&theme=dracula&rank_icon=github)
 <br>
 <!--
 **B-Dem/B-Dem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
